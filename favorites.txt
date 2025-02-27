@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 mash potatos
 ice cream
 crockpot salsa chicken
+=======
+Jurassic Park
+The Mummy
+Back to the Future
+>>>>>>> movies
