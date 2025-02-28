@@ -13,7 +13,7 @@
     2. Jurassic Park
     3. Back to the Future
 
-[id]: Github-desktop-logo-symbol.svg.png  "a purple picture of the Github logo"
+[id]: https://images.app.goo.gl/Jd4Dy1D9GDJqLzeL7 "a purple picture of the Github logo"
 
 ### While food and movies have there own file, you can see them combine on the main!
 
