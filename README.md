@@ -1,18 +1,17 @@
 # Learning the Github Basics
 **with what is your favorite movies and food!**
 
-+*Food*
-    - Mash Potatos
-    - Ice Cream
-    - Crockpot Salsa Chicken
+*Food*
+    1. Mash Potatos
+    2. Ice Cream
+    3. Crockpot Salsa Chicken
 
-+*Movies*
-    - The Mummy
-    - Jurassic Park
-    - Back to the Future
+*Movies*
+    1. The Mummy
+    2. Jurassic Park
+    3. Back to the Future
 
-[id]:
-https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
+[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
 ### While food and movies have there own file, you can see them combine on the main!
 
